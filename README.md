@@ -16,7 +16,7 @@ Have a look [here](doc/README.devices.rst).
 
 ## Supported Operating Systems
 
-SuperCAN supports Windows 10 and Linux.
+SuperCAN supports Windows 10/11 and Linux.
 
 
 ## Apps
